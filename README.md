@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Muhammad Haris</h1>
-<h3 align="center">A Passionate Artificial Intelligence && Data Science Enthusiast</h3>
+<h3 align="center">A Passionate Back-end Developer && Artifical Intelligence Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harismalik123&label=Profile%20views&color=0e75b6&style=flat" alt="harismalik123" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning && Data Science**
+- 🌱 I’m currently focused on building **scalable, complex back-end systems** and exploring **Artificial Intelligence**
+
 
 - 📫 How to reach me **muhammadharis.harry755@gmail.com**
 
